@@ -1,4 +1,4 @@
-# Bootcamp Homework Solutions
+# Homework
 
 # 1. Count vowels in a word
 word = input("Enter a word: ").lower()
